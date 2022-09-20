@@ -1,6 +1,8 @@
+remote_theme : ankitsultana/researcher
+
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://Jian-Kwon.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
