@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [jkwon35@jhu.com](mailto:jkwon35@jhu.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-410-900-2377](tel:+1-410-900-2377)
 
 ---
 
